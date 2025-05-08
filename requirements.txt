@@ -1,0 +1,5 @@
+Flask==2.3.2
+yt-dlp
+aiohttp
+tenacity
+playwright
